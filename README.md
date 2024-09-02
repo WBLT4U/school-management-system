@@ -1,4 +1,4 @@
-School Management System
+School Management System - Core PHP
 
 This School Management System is a comprehensive digital solution designed to enhance the administrative and academic functions of educational institutions. It incorporates five distinct platforms tailored to the specific roles and responsibilities within the school, ensuring seamless communication and efficient management.
 
