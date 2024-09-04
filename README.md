@@ -46,6 +46,10 @@ Add Charges: Allows the Director to set and update fees for applications and sch
 Conclusion
 This School Management System is a robust and versatile tool designed to streamline the administrative and educational processes within a school. By offering specialized platforms for each role, it ensures that every aspect of school management, from student registration to academic reporting, is handled efficiently and effectively.
 
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 Contact Information For any inquiries or support, feel free to reach out:
 
 Author: Taofiq Abdulsalam 
